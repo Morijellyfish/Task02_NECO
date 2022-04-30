@@ -1,0 +1,22 @@
+{
+  "name": "kadai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hoge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morijellyfish/kadai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morijellyfish/kadai/issues"
+  },
+  "homepage": "https://github.com/Morijellyfish/kadai#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
